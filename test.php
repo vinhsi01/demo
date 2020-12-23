@@ -8,3 +8,4 @@ code lan 4
 code lan 5
 asdas tessh
 asdasdas asdas asdas asd ấddasdasdasdas
+mot 2 3 4 3 2 1
